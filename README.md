@@ -1,0 +1,1 @@
+# serverless-deny-resource-policy
